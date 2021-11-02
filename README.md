@@ -21,14 +21,12 @@ Vulnerability #1: SQL Injection
 
 Description:
 
-<img src="blue-vuln1.gif">
+<img src="https://i.imgur.com/kfcarvH.gif">
 
-Vulnerability #2: Session Hijacking/Fixation OR Cross Site Scripting (XSS) (Assumption)
+Vulnerability #2: Session Hijacking/Fixation 
 
 Description:
-
-I did not get to do this part before the deadline, and since the other ones utilized other vulnerabilities, my assumption is that this one was session hijacking 
-or cross site scripting (XSS).
+<img src="https://i.imgur.com/dqMC9ya.gif">
 
 ## Green
 
@@ -36,14 +34,13 @@ Vulnerability #1: Username Enumeration
 
 Description:
 
-<img src="green-vuln1.gif">
+<img src="https://i.imgur.com/ZiINKfm.gif">
 
-Vulnerability #2: Session Hijacking/Fixation OR Cross Site Scripting (XSS) (Assumption)
+Vulnerability #2: Cross Site Scripting (XSS)
 
 Description:
 
-I did not get to do this part before the deadline, and since the other ones utilized other vulnerabilities, my assumption is that this one was session hijacking 
-or cross site scripting (XSS).
+<img src="https://i.imgur.com/EwVth76.gif">
 
 
 ## Red
@@ -52,17 +49,18 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
 Description:
 
-<img src="red-vuln1.gif">
+<img src="https://i.imgur.com/eDyymBG.gif">
 
-Vulnerability #2: Cross-Site Request FOrgery (CSRF)
+Vulnerability #2: Cross-Site Request Forgery (CSRF) (Assumption)
 
 Description:
 
-<img src="red-vuln2.gif">
+I did not have the time to find the second vulnerability for the red website. Due to the other 5 vulnerabilities being found, I can
+only assume that the remaining vulnerability, cross-site request forgery, is the second one for the red website.
 
 
 ## Notes
 
 Due to this being assigned amidst multiple midterms, I did not find ample time to fully finish this assignment, and thus had to leave it incomplete. 
-What little I did do, however, was very fun to experiment with and I hope to complete this assignment in my own time in the near future. 
+What I did do, however, was very fun to experiment with and I hope to complete this assignment in my own time in the near future. 
 
